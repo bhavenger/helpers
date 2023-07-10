@@ -1,4 +1,4 @@
-#!/usr/local/bin/fish
+#!/usr/bin/env fish
 # For install - ln -s (pwd)/j.fish /usr/local/bin/j
 
 set argument $argv[1]
